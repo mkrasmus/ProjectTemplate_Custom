@@ -6,13 +6,6 @@
 .Ruserdata
 .RCache
 
-# Project directories #
-#######################
-/cache/
-/data/
-/data-raw/
-/figs/
-
 # Compiled source #
 ###################
 *.com
